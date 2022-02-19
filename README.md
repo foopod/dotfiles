@@ -1,12 +1,12 @@
-Dotfiles
+## Dotfiles
 
-Using...
+### Using...
 
 + Bspwm
 + Picom
 + Polybar
 
-Other apps...
+### Other apps...
 
 + Kitty (terminal)
 + Micro (text-editor)
