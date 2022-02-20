@@ -16,8 +16,8 @@ bspc config borderless_monocle   true
 bspc config gapless_monocle      true
 bspc config focus_follows_pointer false
 
-bspc config active_border_color "#1E1E2E"
-bspc config focused_border_color "#1E1E2E"
+bspc config active_border_color "#aa88cc"
+bspc config focused_border_color "#aa88cc"
 
 bspc rule -a code-oss desktop='^1'
 bspc rule -a firefox desktop='^2'
