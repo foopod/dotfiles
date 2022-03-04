@@ -1,5 +1,5 @@
 source /usr/share/defaults/etc/profile
-PS1="\W\e[0;31m $ \e[m"
+PS1="\[\W\]\e\[[0;31m\] $ \[\e[m\]"
 alias open="gio open"
 alias up="sudo eopkg up"
 alias m="sudo micro"
